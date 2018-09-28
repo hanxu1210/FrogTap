@@ -77,13 +77,13 @@ public class PlayerControl : MonoBehaviour {
 		//If we are running on unity editor, use mouse control to play.
 		#if UNITY_EDITOR
 		//If we get one left click of mouse on the screen and the controls are activated...
-		if ((Input.GetMouseButtonDown(0)||Input.GetKeyDown (KeyCode.JoystickButton0)) && isControlActivated) {
+		if ((Input.GetMouseButtonDown(0)||KeyboardHandler.IsOkButtonDown()) && isControlActivated) {
 			LaunchTongue();			//...get the mouse position to launch the frog's tongue.
 		}
 		//Otherwise, if we are running on Android, iOS, Windows Metro or Unity Windows Phone 8.1, use touch control to play.
 		#elif UNITY_ANDROID || UNITY_IOS || UNITY_METRO || UNITY_WP_8_1
 		//If we get one touch on the screen and the controls are activated...
-		if (Input.GetKeyDown (KeyCode.JoystickButton0) && isControlActivated) {
+		if (KeyboardHandler.IsOkButtonDown() && isControlActivated) {
 			Touch myTouch = Input.touches [0];			//...store the first touch detected...
 
 			//...check if the phase of that touch is equal to began...
