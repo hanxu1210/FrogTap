@@ -13,14 +13,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 1441
+    x: 0
     y: 45
-    width: 1881
-    height: 1035
+    width: 1405
+    height: 855
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 14}
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -165,14 +165,14 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 560
-    width: 362
-    height: 425
+    y: 458
+    width: 267
+    height: 347
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 23}
+  m_ActualView: {fileID: 22}
   m_Panes:
-  - {fileID: 23}
+  - {fileID: 22}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &9
@@ -191,14 +191,14 @@ MonoBehaviour:
   - {fileID: 8}
   m_Position:
     serializedVersion: 2
-    x: 1211
+    x: 774
     y: 0
-    width: 362
-    height: 985
-  m_MinSize: {x: 234, y: 471}
-  m_MaxSize: {x: 10004, y: 14021}
+    width: 267
+    height: 805
+  m_MinSize: {x: 234, y: 492}
+  m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 73
+  controlID: 79
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -215,13 +215,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 362
-    height: 560
+    width: 267
+    height: 458
   m_MinSize: {x: 234, y: 271}
   m_MaxSize: {x: 10004, y: 10021}
-  m_ActualView: {fileID: 21}
+  m_ActualView: {fileID: 20}
   m_Panes:
-  - {fileID: 21}
+  - {fileID: 20}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &11
@@ -243,12 +243,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1881
-    height: 985
-  m_MinSize: {x: 711, y: 471}
-  m_MaxSize: {x: 18006, y: 14021}
+    width: 1405
+    height: 805
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 109
+  controlID: 44
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -263,15 +263,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1573
+    x: 1041
     y: 0
-    width: 308
-    height: 985
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 22}
+    width: 364
+    height: 805
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 21}
   m_Panes:
-  - {fileID: 22}
+  - {fileID: 21}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &13
@@ -289,15 +289,14 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 505
-    width: 1211
-    height: 480
+    y: 413
+    width: 774
+    height: 392
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 26}
+  m_ActualView: {fileID: 25}
   m_Panes:
-  - {fileID: 26}
-  - {fileID: 20}
+  - {fileID: 25}
   - {fileID: 19}
   m_Selected: 0
   m_LastSelected: 1
@@ -320,8 +319,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1881
-    height: 1035
+    width: 1405
+    height: 855
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &15
@@ -340,7 +339,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1881
+    width: 1405
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -360,8 +359,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 1015
-    width: 1881
+    y: 835
+    width: 1405
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -383,12 +382,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1211
-    height: 985
+    width: 774
+    height: 805
   m_MinSize: {x: 202, y: 342}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 110
+  controlID: 45
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -405,16 +404,16 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1211
-    height: 505
+    width: 774
+    height: 413
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 24}
   m_Panes:
-  - {fileID: 25}
   - {fileID: 24}
-  m_Selected: 1
-  m_LastSelected: 0
+  - {fileID: 23}
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -450,3068 +449,6 @@ MonoBehaviour:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1586788657, guid: ebd9c9731c77e4f6ab2d4b996ba979da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_AutoRepaintOnSceneChange: 0
-  m_MinSize: {x: 200, y: 120}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: ' Console Pro'
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  m_DepthBufferBits: 0
-  m_Pos:
-    serializedVersion: 2
-    x: 1440
-    y: 688
-    width: 1010
-    height: 370
-  logPanelScroll: {x: 0, y: 0}
-  logPanelSelectedIndex: -1
-  logPanelAutoScroll: 1
-  currentFrame: 56787
-  logs:
-    lastGrabbedIndex: 8
-    lastGrabbedCount: 9
-    proEntries: []
-    newEntries:
-    - logType: 1
-      logPanelVisible: 1
-      logPanelIndex: 0
-      logOutputHeight: -1
-      listIndex: 0
-      nativeIndex: 0
-      nativeIdentifier: 0
-      originalLog: Ready To Running
-      originalStackTrace: 'Ready To Running
-
-        UnityEngine.Debug:Log(Object)
-
-        MyGameStartUp:.cctor() (at Assets/Editor/Scripts/EditShowLabelInEditorView.cs:21)
-
-        UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes()
-
-'
-      nativeFileName: Assets/Editor/Scripts/EditShowLabelInEditorView.cs
-      nativeLineNumber: 21
-      watchName: 
-      logText: Ready To Running
-      logTruncatedText: Ready To Running
-      logColumnText: Ready To Running
-      fileName: 
-      className: 
-      namespaceName: 
-      lineCount: 1
-      hasSourceCode: 0
-      timeStamp: 0.019999999552965164
-      timeFrame: 2
-      instanceID: 0
-      collapsedCount: 0
-      cachedHeight: -1
-      cachedHeightLogWidth: 0
-      stackEntries:
-      - fileName: Assets/Editor/Scripts/EditShowLabelInEditorView.cs
-        fileNameWithoutAssets: Editor/Scripts/EditShowLabelInEditorView.cs
-        fileNameWithoutAssetsPlusLineNumber: Editor/Scripts/EditShowLabelInEditorView.cs:21
-        fileNameWithoutPath: EditShowLabelInEditorView.cs
-        fileNameWithoutPathPlusLineNumber: EditShowLabelInEditorView.cs:21
-        instanceID: -1
-        className: MyGameStartUp.
-        methodName: cctor
-        namespaceName: None
-        lineNumber: 21
-        charNumber: 0
-        stackLabel: MyGameStartUp..cctor()
-        stackLabel2: '    Assets/Editor/Scripts/EditShowLabelInEditorView.cs:21'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: None
-        fileNameWithoutAssets: None
-        fileNameWithoutAssetsPlusLineNumber: None
-        fileNameWithoutPath: None
-        fileNameWithoutPathPlusLineNumber: None
-        instanceID: -1
-        className: EditorAssemblies
-        methodName: ProcessInitializeOnLoadAttributes
-        namespaceName: UnityEditor
-        lineNumber: 0
-        charNumber: 0
-        stackLabel: EditorAssemblies.ProcessInitializeOnLoadAttributes()
-        stackLabel2: 
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      ignoredStackEntries: []
-      lastMatchedCount: 0
-      belongsToFilters: []
-      belongsToStandardFilters: []
-      assignedTempFilter:
-        name: 
-        isEnabled: 1
-        collapsed: 0
-        itemGUID: 
-        filterName: 
-        mainColor: {r: 1, g: 1, b: 1, a: 1}
-        isStandardFilter: 0
-        isTempFilter: 0
-        useAdvancedColors: 0
-        customTextColor: {r: 1, g: 1, b: 1, a: 1}
-        customBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-        swallowStandard: 1
-        overrideStandardColors: 1
-        overrideStandardIcon: 1
-        collapseIconBackground: 0
-        collapseIconSymbol: 0
-        collapseIconLetter: 0
-        collapseIconTexture: 0
-        useIconBackground: 1
-        useIconSymbol: 0
-        useIconLetter: 0
-        useIconTexture: 0
-        filterFormatVersion: -1
-        iconColorize: 0
-        useAndOpForSearchList: 0
-        searchList:
-          list: []
-          selectionList: 0
-          collapsable: 1
-          collapsed: 0
-        iconLetter:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconSymbol:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconBackground:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconTexture:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        showInToolbar: 1
-        hideLabelInToolbar: 0
-        hideWhenNoMatches: 0
-    - logType: 1
-      logPanelVisible: 1
-      logPanelIndex: 0
-      logOutputHeight: -1
-      listIndex: 0
-      nativeIndex: 1
-      nativeIdentifier: 0
-      originalLog: 'LUA: 10.16.0.46'
-      originalStackTrace: 'LUA: 10.16.0.46
-
-        UnityEngine.Debug:Log(Object)
-
-        XLua.StaticLuaCallbacks:Print(IntPtr) (at Assets/Externals/XLua/Src/StaticLuaCallbacks.cs:626)
-
-        XLua.LuaDLL.Lua:lua_pcall(IntPtr, Int32, Int32, Int32)
-
-        XLua.LuaEnv:DoString(Byte[], String, LuaTable) (at Assets/Externals/XLua/Src/LuaEnv.cs:258)
-
-        XLua.LuaEnv:DoString(String, String, LuaTable) (at Assets/Externals/XLua/Src/LuaEnv.cs:278)
-
-        LuaManager:DoString(String) (at Assets/Scripts/Engine/Lua/LuaManager.cs:98)
-
-        LuaManager:InitSingleton() (at Assets/Scripts/Engine/Lua/LuaManager.cs:162)
-
-        SingletonBehaviour`1:Awake() (at Assets/Scripts/Engine/Core/Singleton.cs:114)
-
-        UnityEngine.Object:Instantiate(GameObject, Transform)
-
-        Facade:AddManager() (at Assets/Scripts/Engine/Framework/Core/Facade.cs:77)
-
-        GameGlobal:InitManagers() (at Assets/Scripts/Client/Global/GameGlobal.cs:209)
-
-        GameGlobal:InitImpl() (at Assets/Scripts/Client/Global/GameGlobal.cs:180)
-
-        GameGlobal:InitGlobal() (at Assets/Scripts/Client/Global/GameGlobal.cs:170)
-
-        SceneBase`1:Awake() (at Assets/Scripts/Engine/Core/SceneBase.cs:111)
-
-        ScenePatch:Awake() (at Assets/Scripts/Client/Scene/ScenePatch.cs:43)
-
-'
-      nativeFileName: Assets/Externals/XLua/Src/StaticLuaCallbacks.cs
-      nativeLineNumber: 626
-      watchName: 
-      logText: 'LUA: 10.16.0.46'
-      logTruncatedText: 'LUA: 10.16.0.46'
-      logColumnText: 'LUA: 10.16.0.46'
-      fileName: 
-      className: 
-      namespaceName: 
-      lineCount: 1
-      hasSourceCode: 0
-      timeStamp: 0.019999999552965164
-      timeFrame: 2
-      instanceID: 0
-      collapsedCount: 0
-      cachedHeight: -1
-      cachedHeightLogWidth: 0
-      stackEntries:
-      - fileName: Assets/Externals/XLua/Src/StaticLuaCallbacks.cs
-        fileNameWithoutAssets: Externals/XLua/Src/StaticLuaCallbacks.cs
-        fileNameWithoutAssetsPlusLineNumber: Externals/XLua/Src/StaticLuaCallbacks.cs:626
-        fileNameWithoutPath: StaticLuaCallbacks.cs
-        fileNameWithoutPathPlusLineNumber: StaticLuaCallbacks.cs:626
-        instanceID: -1
-        className: StaticLuaCallbacks
-        methodName: Print
-        namespaceName: XLua
-        lineNumber: 626
-        charNumber: 0
-        stackLabel: StaticLuaCallbacks.Print()
-        stackLabel2: '    Assets/Externals/XLua/Src/StaticLuaCallbacks.cs:626'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: None
-        fileNameWithoutAssets: None
-        fileNameWithoutAssetsPlusLineNumber: None
-        fileNameWithoutPath: None
-        fileNameWithoutPathPlusLineNumber: None
-        instanceID: -1
-        className: Lua
-        methodName: lua_pcall
-        namespaceName: XLua.LuaDLL
-        lineNumber: 0
-        charNumber: 0
-        stackLabel: Lua.lua_pcall()
-        stackLabel2: 
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Externals/XLua/Src/LuaEnv.cs
-        fileNameWithoutAssets: Externals/XLua/Src/LuaEnv.cs
-        fileNameWithoutAssetsPlusLineNumber: Externals/XLua/Src/LuaEnv.cs:258
-        fileNameWithoutPath: LuaEnv.cs
-        fileNameWithoutPathPlusLineNumber: LuaEnv.cs:258
-        instanceID: -1
-        className: LuaEnv
-        methodName: DoString
-        namespaceName: XLua
-        lineNumber: 258
-        charNumber: 0
-        stackLabel: LuaEnv.DoString()
-        stackLabel2: '    Assets/Externals/XLua/Src/LuaEnv.cs:258'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Externals/XLua/Src/LuaEnv.cs
-        fileNameWithoutAssets: Externals/XLua/Src/LuaEnv.cs
-        fileNameWithoutAssetsPlusLineNumber: Externals/XLua/Src/LuaEnv.cs:278
-        fileNameWithoutPath: LuaEnv.cs
-        fileNameWithoutPathPlusLineNumber: LuaEnv.cs:278
-        instanceID: -1
-        className: LuaEnv
-        methodName: DoString
-        namespaceName: XLua
-        lineNumber: 278
-        charNumber: 0
-        stackLabel: LuaEnv.DoString()
-        stackLabel2: '    Assets/Externals/XLua/Src/LuaEnv.cs:278'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Lua/LuaManager.cs
-        fileNameWithoutAssets: Scripts/Engine/Lua/LuaManager.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Lua/LuaManager.cs:98
-        fileNameWithoutPath: LuaManager.cs
-        fileNameWithoutPathPlusLineNumber: LuaManager.cs:98
-        instanceID: -1
-        className: LuaManager
-        methodName: DoString
-        namespaceName: None
-        lineNumber: 98
-        charNumber: 0
-        stackLabel: LuaManager.DoString()
-        stackLabel2: '    Assets/Scripts/Engine/Lua/LuaManager.cs:98'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Lua/LuaManager.cs
-        fileNameWithoutAssets: Scripts/Engine/Lua/LuaManager.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Lua/LuaManager.cs:162
-        fileNameWithoutPath: LuaManager.cs
-        fileNameWithoutPathPlusLineNumber: LuaManager.cs:162
-        instanceID: -1
-        className: LuaManager
-        methodName: InitSingleton
-        namespaceName: None
-        lineNumber: 162
-        charNumber: 0
-        stackLabel: LuaManager.InitSingleton()
-        stackLabel2: '    Assets/Scripts/Engine/Lua/LuaManager.cs:162'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/Singleton.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/Singleton.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/Singleton.cs:114
-        fileNameWithoutPath: Singleton.cs
-        fileNameWithoutPathPlusLineNumber: Singleton.cs:114
-        instanceID: -1
-        className: SingletonBehaviour`1
-        methodName: Awake
-        namespaceName: None
-        lineNumber: 114
-        charNumber: 0
-        stackLabel: SingletonBehaviour`1.Awake()
-        stackLabel2: '    Assets/Scripts/Engine/Core/Singleton.cs:114'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: None
-        fileNameWithoutAssets: None
-        fileNameWithoutAssetsPlusLineNumber: None
-        fileNameWithoutPath: None
-        fileNameWithoutPathPlusLineNumber: None
-        instanceID: -1
-        className: Object
-        methodName: Instantiate
-        namespaceName: UnityEngine
-        lineNumber: 0
-        charNumber: 0
-        stackLabel: Object.Instantiate()
-        stackLabel2: 
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Framework/Core/Facade.cs
-        fileNameWithoutAssets: Scripts/Engine/Framework/Core/Facade.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Framework/Core/Facade.cs:77
-        fileNameWithoutPath: Facade.cs
-        fileNameWithoutPathPlusLineNumber: Facade.cs:77
-        instanceID: -1
-        className: Facade
-        methodName: AddManager
-        namespaceName: None
-        lineNumber: 77
-        charNumber: 0
-        stackLabel: Facade.AddManager()
-        stackLabel2: '    Assets/Scripts/Engine/Framework/Core/Facade.cs:77'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssets: Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Global/GameGlobal.cs:209
-        fileNameWithoutPath: GameGlobal.cs
-        fileNameWithoutPathPlusLineNumber: GameGlobal.cs:209
-        instanceID: -1
-        className: GameGlobal
-        methodName: InitManagers
-        namespaceName: None
-        lineNumber: 209
-        charNumber: 0
-        stackLabel: GameGlobal.InitManagers()
-        stackLabel2: '    Assets/Scripts/Client/Global/GameGlobal.cs:209'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssets: Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Global/GameGlobal.cs:180
-        fileNameWithoutPath: GameGlobal.cs
-        fileNameWithoutPathPlusLineNumber: GameGlobal.cs:180
-        instanceID: -1
-        className: GameGlobal
-        methodName: InitImpl
-        namespaceName: None
-        lineNumber: 180
-        charNumber: 0
-        stackLabel: GameGlobal.InitImpl()
-        stackLabel2: '    Assets/Scripts/Client/Global/GameGlobal.cs:180'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssets: Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Global/GameGlobal.cs:170
-        fileNameWithoutPath: GameGlobal.cs
-        fileNameWithoutPathPlusLineNumber: GameGlobal.cs:170
-        instanceID: -1
-        className: GameGlobal
-        methodName: InitGlobal
-        namespaceName: None
-        lineNumber: 170
-        charNumber: 0
-        stackLabel: GameGlobal.InitGlobal()
-        stackLabel2: '    Assets/Scripts/Client/Global/GameGlobal.cs:170'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/SceneBase.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/SceneBase.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/SceneBase.cs:111
-        fileNameWithoutPath: SceneBase.cs
-        fileNameWithoutPathPlusLineNumber: SceneBase.cs:111
-        instanceID: -1
-        className: SceneBase`1
-        methodName: Awake
-        namespaceName: None
-        lineNumber: 111
-        charNumber: 0
-        stackLabel: SceneBase`1.Awake()
-        stackLabel2: '    Assets/Scripts/Engine/Core/SceneBase.cs:111'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Scene/ScenePatch.cs
-        fileNameWithoutAssets: Scripts/Client/Scene/ScenePatch.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Scene/ScenePatch.cs:43
-        fileNameWithoutPath: ScenePatch.cs
-        fileNameWithoutPathPlusLineNumber: ScenePatch.cs:43
-        instanceID: -1
-        className: ScenePatch
-        methodName: Awake
-        namespaceName: None
-        lineNumber: 43
-        charNumber: 0
-        stackLabel: ScenePatch.Awake()
-        stackLabel2: '    Assets/Scripts/Client/Scene/ScenePatch.cs:43'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      ignoredStackEntries: []
-      lastMatchedCount: 0
-      belongsToFilters: []
-      belongsToStandardFilters: []
-      assignedTempFilter:
-        name: 
-        isEnabled: 1
-        collapsed: 0
-        itemGUID: 
-        filterName: 
-        mainColor: {r: 1, g: 1, b: 1, a: 1}
-        isStandardFilter: 0
-        isTempFilter: 0
-        useAdvancedColors: 0
-        customTextColor: {r: 1, g: 1, b: 1, a: 1}
-        customBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-        swallowStandard: 1
-        overrideStandardColors: 1
-        overrideStandardIcon: 1
-        collapseIconBackground: 0
-        collapseIconSymbol: 0
-        collapseIconLetter: 0
-        collapseIconTexture: 0
-        useIconBackground: 1
-        useIconSymbol: 0
-        useIconLetter: 0
-        useIconTexture: 0
-        filterFormatVersion: -1
-        iconColorize: 0
-        useAndOpForSearchList: 0
-        searchList:
-          list: []
-          selectionList: 0
-          collapsable: 1
-          collapsed: 0
-        iconLetter:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconSymbol:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconBackground:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconTexture:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        showInToolbar: 1
-        hideLabelInToolbar: 0
-        hideWhenNoMatches: 0
-    - logType: 1
-      logPanelVisible: 1
-      logPanelIndex: 0
-      logOutputHeight: -1
-      listIndex: 0
-      nativeIndex: 2
-      nativeIdentifier: 0
-      originalLog: 'LUA: 7003'
-      originalStackTrace: 'LUA: 7003
-
-        UnityEngine.Debug:Log(Object)
-
-        XLua.StaticLuaCallbacks:Print(IntPtr) (at Assets/Externals/XLua/Src/StaticLuaCallbacks.cs:626)
-
-        XLua.LuaDLL.Lua:lua_pcall(IntPtr, Int32, Int32, Int32)
-
-        XLua.LuaEnv:DoString(Byte[], String, LuaTable) (at Assets/Externals/XLua/Src/LuaEnv.cs:258)
-
-        XLua.LuaEnv:DoString(String, String, LuaTable) (at Assets/Externals/XLua/Src/LuaEnv.cs:278)
-
-        LuaManager:DoString(String) (at Assets/Scripts/Engine/Lua/LuaManager.cs:98)
-
-        LuaManager:InitSingleton() (at Assets/Scripts/Engine/Lua/LuaManager.cs:162)
-
-        SingletonBehaviour`1:Awake() (at Assets/Scripts/Engine/Core/Singleton.cs:114)
-
-        UnityEngine.Object:Instantiate(GameObject, Transform)
-
-        Facade:AddManager() (at Assets/Scripts/Engine/Framework/Core/Facade.cs:77)
-
-        GameGlobal:InitManagers() (at Assets/Scripts/Client/Global/GameGlobal.cs:209)
-
-        GameGlobal:InitImpl() (at Assets/Scripts/Client/Global/GameGlobal.cs:180)
-
-        GameGlobal:InitGlobal() (at Assets/Scripts/Client/Global/GameGlobal.cs:170)
-
-        SceneBase`1:Awake() (at Assets/Scripts/Engine/Core/SceneBase.cs:111)
-
-        ScenePatch:Awake() (at Assets/Scripts/Client/Scene/ScenePatch.cs:43)
-
-'
-      nativeFileName: Assets/Externals/XLua/Src/StaticLuaCallbacks.cs
-      nativeLineNumber: 626
-      watchName: 
-      logText: 'LUA: 7003'
-      logTruncatedText: 'LUA: 7003'
-      logColumnText: 'LUA: 7003'
-      fileName: 
-      className: 
-      namespaceName: 
-      lineCount: 1
-      hasSourceCode: 0
-      timeStamp: 0.019999999552965164
-      timeFrame: 2
-      instanceID: 0
-      collapsedCount: 0
-      cachedHeight: -1
-      cachedHeightLogWidth: 0
-      stackEntries:
-      - fileName: Assets/Externals/XLua/Src/StaticLuaCallbacks.cs
-        fileNameWithoutAssets: Externals/XLua/Src/StaticLuaCallbacks.cs
-        fileNameWithoutAssetsPlusLineNumber: Externals/XLua/Src/StaticLuaCallbacks.cs:626
-        fileNameWithoutPath: StaticLuaCallbacks.cs
-        fileNameWithoutPathPlusLineNumber: StaticLuaCallbacks.cs:626
-        instanceID: -1
-        className: StaticLuaCallbacks
-        methodName: Print
-        namespaceName: XLua
-        lineNumber: 626
-        charNumber: 0
-        stackLabel: StaticLuaCallbacks.Print()
-        stackLabel2: '    Assets/Externals/XLua/Src/StaticLuaCallbacks.cs:626'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: None
-        fileNameWithoutAssets: None
-        fileNameWithoutAssetsPlusLineNumber: None
-        fileNameWithoutPath: None
-        fileNameWithoutPathPlusLineNumber: None
-        instanceID: -1
-        className: Lua
-        methodName: lua_pcall
-        namespaceName: XLua.LuaDLL
-        lineNumber: 0
-        charNumber: 0
-        stackLabel: Lua.lua_pcall()
-        stackLabel2: 
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Externals/XLua/Src/LuaEnv.cs
-        fileNameWithoutAssets: Externals/XLua/Src/LuaEnv.cs
-        fileNameWithoutAssetsPlusLineNumber: Externals/XLua/Src/LuaEnv.cs:258
-        fileNameWithoutPath: LuaEnv.cs
-        fileNameWithoutPathPlusLineNumber: LuaEnv.cs:258
-        instanceID: -1
-        className: LuaEnv
-        methodName: DoString
-        namespaceName: XLua
-        lineNumber: 258
-        charNumber: 0
-        stackLabel: LuaEnv.DoString()
-        stackLabel2: '    Assets/Externals/XLua/Src/LuaEnv.cs:258'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Externals/XLua/Src/LuaEnv.cs
-        fileNameWithoutAssets: Externals/XLua/Src/LuaEnv.cs
-        fileNameWithoutAssetsPlusLineNumber: Externals/XLua/Src/LuaEnv.cs:278
-        fileNameWithoutPath: LuaEnv.cs
-        fileNameWithoutPathPlusLineNumber: LuaEnv.cs:278
-        instanceID: -1
-        className: LuaEnv
-        methodName: DoString
-        namespaceName: XLua
-        lineNumber: 278
-        charNumber: 0
-        stackLabel: LuaEnv.DoString()
-        stackLabel2: '    Assets/Externals/XLua/Src/LuaEnv.cs:278'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Lua/LuaManager.cs
-        fileNameWithoutAssets: Scripts/Engine/Lua/LuaManager.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Lua/LuaManager.cs:98
-        fileNameWithoutPath: LuaManager.cs
-        fileNameWithoutPathPlusLineNumber: LuaManager.cs:98
-        instanceID: -1
-        className: LuaManager
-        methodName: DoString
-        namespaceName: None
-        lineNumber: 98
-        charNumber: 0
-        stackLabel: LuaManager.DoString()
-        stackLabel2: '    Assets/Scripts/Engine/Lua/LuaManager.cs:98'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Lua/LuaManager.cs
-        fileNameWithoutAssets: Scripts/Engine/Lua/LuaManager.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Lua/LuaManager.cs:162
-        fileNameWithoutPath: LuaManager.cs
-        fileNameWithoutPathPlusLineNumber: LuaManager.cs:162
-        instanceID: -1
-        className: LuaManager
-        methodName: InitSingleton
-        namespaceName: None
-        lineNumber: 162
-        charNumber: 0
-        stackLabel: LuaManager.InitSingleton()
-        stackLabel2: '    Assets/Scripts/Engine/Lua/LuaManager.cs:162'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/Singleton.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/Singleton.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/Singleton.cs:114
-        fileNameWithoutPath: Singleton.cs
-        fileNameWithoutPathPlusLineNumber: Singleton.cs:114
-        instanceID: -1
-        className: SingletonBehaviour`1
-        methodName: Awake
-        namespaceName: None
-        lineNumber: 114
-        charNumber: 0
-        stackLabel: SingletonBehaviour`1.Awake()
-        stackLabel2: '    Assets/Scripts/Engine/Core/Singleton.cs:114'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: None
-        fileNameWithoutAssets: None
-        fileNameWithoutAssetsPlusLineNumber: None
-        fileNameWithoutPath: None
-        fileNameWithoutPathPlusLineNumber: None
-        instanceID: -1
-        className: Object
-        methodName: Instantiate
-        namespaceName: UnityEngine
-        lineNumber: 0
-        charNumber: 0
-        stackLabel: Object.Instantiate()
-        stackLabel2: 
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Framework/Core/Facade.cs
-        fileNameWithoutAssets: Scripts/Engine/Framework/Core/Facade.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Framework/Core/Facade.cs:77
-        fileNameWithoutPath: Facade.cs
-        fileNameWithoutPathPlusLineNumber: Facade.cs:77
-        instanceID: -1
-        className: Facade
-        methodName: AddManager
-        namespaceName: None
-        lineNumber: 77
-        charNumber: 0
-        stackLabel: Facade.AddManager()
-        stackLabel2: '    Assets/Scripts/Engine/Framework/Core/Facade.cs:77'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssets: Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Global/GameGlobal.cs:209
-        fileNameWithoutPath: GameGlobal.cs
-        fileNameWithoutPathPlusLineNumber: GameGlobal.cs:209
-        instanceID: -1
-        className: GameGlobal
-        methodName: InitManagers
-        namespaceName: None
-        lineNumber: 209
-        charNumber: 0
-        stackLabel: GameGlobal.InitManagers()
-        stackLabel2: '    Assets/Scripts/Client/Global/GameGlobal.cs:209'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssets: Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Global/GameGlobal.cs:180
-        fileNameWithoutPath: GameGlobal.cs
-        fileNameWithoutPathPlusLineNumber: GameGlobal.cs:180
-        instanceID: -1
-        className: GameGlobal
-        methodName: InitImpl
-        namespaceName: None
-        lineNumber: 180
-        charNumber: 0
-        stackLabel: GameGlobal.InitImpl()
-        stackLabel2: '    Assets/Scripts/Client/Global/GameGlobal.cs:180'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssets: Scripts/Client/Global/GameGlobal.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Global/GameGlobal.cs:170
-        fileNameWithoutPath: GameGlobal.cs
-        fileNameWithoutPathPlusLineNumber: GameGlobal.cs:170
-        instanceID: -1
-        className: GameGlobal
-        methodName: InitGlobal
-        namespaceName: None
-        lineNumber: 170
-        charNumber: 0
-        stackLabel: GameGlobal.InitGlobal()
-        stackLabel2: '    Assets/Scripts/Client/Global/GameGlobal.cs:170'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/SceneBase.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/SceneBase.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/SceneBase.cs:111
-        fileNameWithoutPath: SceneBase.cs
-        fileNameWithoutPathPlusLineNumber: SceneBase.cs:111
-        instanceID: -1
-        className: SceneBase`1
-        methodName: Awake
-        namespaceName: None
-        lineNumber: 111
-        charNumber: 0
-        stackLabel: SceneBase`1.Awake()
-        stackLabel2: '    Assets/Scripts/Engine/Core/SceneBase.cs:111'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Scene/ScenePatch.cs
-        fileNameWithoutAssets: Scripts/Client/Scene/ScenePatch.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Scene/ScenePatch.cs:43
-        fileNameWithoutPath: ScenePatch.cs
-        fileNameWithoutPathPlusLineNumber: ScenePatch.cs:43
-        instanceID: -1
-        className: ScenePatch
-        methodName: Awake
-        namespaceName: None
-        lineNumber: 43
-        charNumber: 0
-        stackLabel: ScenePatch.Awake()
-        stackLabel2: '    Assets/Scripts/Client/Scene/ScenePatch.cs:43'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      ignoredStackEntries: []
-      lastMatchedCount: 0
-      belongsToFilters: []
-      belongsToStandardFilters: []
-      assignedTempFilter:
-        name: 
-        isEnabled: 1
-        collapsed: 0
-        itemGUID: 
-        filterName: 
-        mainColor: {r: 1, g: 1, b: 1, a: 1}
-        isStandardFilter: 0
-        isTempFilter: 0
-        useAdvancedColors: 0
-        customTextColor: {r: 1, g: 1, b: 1, a: 1}
-        customBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-        swallowStandard: 1
-        overrideStandardColors: 1
-        overrideStandardIcon: 1
-        collapseIconBackground: 0
-        collapseIconSymbol: 0
-        collapseIconLetter: 0
-        collapseIconTexture: 0
-        useIconBackground: 1
-        useIconSymbol: 0
-        useIconLetter: 0
-        useIconTexture: 0
-        filterFormatVersion: -1
-        iconColorize: 0
-        useAndOpForSearchList: 0
-        searchList:
-          list: []
-          selectionList: 0
-          collapsable: 1
-          collapsed: 0
-        iconLetter:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconSymbol:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconBackground:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconTexture:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        showInToolbar: 1
-        hideLabelInToolbar: 0
-        hideWhenNoMatches: 0
-    - logType: 1
-      logPanelVisible: 1
-      logPanelIndex: 0
-      logOutputHeight: -1
-      listIndex: 0
-      nativeIndex: 3
-      nativeIdentifier: 0
-      originalLog: '<color=''lightblue''><b>[16:07:30|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9102/pr2new_djwk.json'
-      originalStackTrace: '<color=''lightblue''><b>[16:07:30|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9102/pr2new_djwk.json
-
-        UnityEngine.Debug:Log(Object, Object)
-
-        GameDebug:LogImpl(String, LogLevel, String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:173)
-
-        GameDebug:LogInfo(String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:184)
-
-        UnityHTTP.Request:GetResponse() (at Assets/Scripts/UnityHTTP/src/Request.cs:350)
-
-        <Async>c__AnonStorey1:<>m__0(Object) (at Assets/Scripts/Client/Common/Loom.cs:84)
-
-'
-      nativeFileName: Assets/Scripts/Engine/Core/GameDebug.cs
-      nativeLineNumber: 173
-      watchName: 
-      logText: '<color=''lightblue''><b>[16:07:30|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9102/pr2new_djwk.json'
-      logTruncatedText: '<color=''lightblue''><b>[16:07:30|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9102/pr2new_djwk.json'
-      logColumnText: '<color=''lightblue''><b>[16:07:30|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9102/pr2new_djwk.json'
-      fileName: 
-      className: 
-      namespaceName: 
-      lineCount: 2
-      hasSourceCode: 0
-      timeStamp: 0.019999999552965164
-      timeFrame: 2
-      instanceID: 0
-      collapsedCount: 0
-      cachedHeight: -1
-      cachedHeightLogWidth: 0
-      stackEntries:
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:173
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:173
-        instanceID: -1
-        className: GameDebug
-        methodName: LogImpl
-        namespaceName: None
-        lineNumber: 173
-        charNumber: 0
-        stackLabel: GameDebug.LogImpl()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:173'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:184
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:184
-        instanceID: -1
-        className: GameDebug
-        methodName: LogInfo
-        namespaceName: None
-        lineNumber: 184
-        charNumber: 0
-        stackLabel: GameDebug.LogInfo()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:184'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssets: Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/UnityHTTP/src/Request.cs:350
-        fileNameWithoutPath: Request.cs
-        fileNameWithoutPathPlusLineNumber: Request.cs:350
-        instanceID: -1
-        className: Request
-        methodName: GetResponse
-        namespaceName: UnityHTTP
-        lineNumber: 350
-        charNumber: 0
-        stackLabel: Request.GetResponse()
-        stackLabel2: '    Assets/Scripts/UnityHTTP/src/Request.cs:350'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssets: Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Common/Loom.cs:84
-        fileNameWithoutPath: Loom.cs
-        fileNameWithoutPathPlusLineNumber: Loom.cs:84
-        instanceID: -1
-        className: <Async>c__AnonStorey1
-        methodName: <>m__0
-        namespaceName: None
-        lineNumber: 84
-        charNumber: 0
-        stackLabel: <Async>c__AnonStorey1.<>m__0()
-        stackLabel2: '    Assets/Scripts/Client/Common/Loom.cs:84'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      ignoredStackEntries: []
-      lastMatchedCount: 0
-      belongsToFilters: []
-      belongsToStandardFilters: []
-      assignedTempFilter:
-        name: 
-        isEnabled: 1
-        collapsed: 0
-        itemGUID: 
-        filterName: 
-        mainColor: {r: 1, g: 1, b: 1, a: 1}
-        isStandardFilter: 0
-        isTempFilter: 0
-        useAdvancedColors: 0
-        customTextColor: {r: 1, g: 1, b: 1, a: 1}
-        customBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-        swallowStandard: 1
-        overrideStandardColors: 1
-        overrideStandardIcon: 1
-        collapseIconBackground: 0
-        collapseIconSymbol: 0
-        collapseIconLetter: 0
-        collapseIconTexture: 0
-        useIconBackground: 1
-        useIconSymbol: 0
-        useIconLetter: 0
-        useIconTexture: 0
-        filterFormatVersion: -1
-        iconColorize: 0
-        useAndOpForSearchList: 0
-        searchList:
-          list: []
-          selectionList: 0
-          collapsable: 1
-          collapsed: 0
-        iconLetter:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconSymbol:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconBackground:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconTexture:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        showInToolbar: 1
-        hideLabelInToolbar: 0
-        hideWhenNoMatches: 0
-    - logType: 1
-      logPanelVisible: 1
-      logPanelIndex: 0
-      logOutputHeight: -1
-      listIndex: 0
-      nativeIndex: 4
-      nativeIdentifier: 0
-      originalLog: "<color='lightblue'><b>[16:07:30|CS-Info|HTTP]</b></color>\nhttps://prds.djwk.qq.com:9102/pr2new_djwk.json
-        [ GET ] [ 200 OK ] [ 0(0) | 853(853) ] [ 508 ms ]\n<b><color=lightblue>Request
-        Headers</color></b>\n<b><color=silver>[host]</color></b> prds.djwk.qq.com\n<b><color=silver>[user-agent]</color></b>
-        UnityWeb/1.0 (Unity 5.6.6f2; Mac OS X 10.13.6)\n<b><color=silver>[content-length]</color></b>
-        0\n<b><color=silver>[accept-encoding]</color></b> lz4\n<b><color=silver>[connection]</color></b>
-        close\n<b><color=lightblue>Response Headers</color></b>\n<b><color=silver>[date]</color></b>
-        Fri, 21 Sep 2018 08:07:30 GMT\n<b><color=silver>[content-type]</color></b>
-        application/json\n<b><color=silver>[content-length]</color></b> 853\n<b><color=silver>[connection]</color></b>
-        close\n<b><color=silver>[server]</color></b> nginx\n<b><color=silver>[last-modified]</color></b>
-        Thu, 13 Sep 2018 13:02:28 GMT\n<b><color=silver>[etag]</color></b> \"5b9a5fe4-355\"\n<b><color=silver>[accept-ranges]</color></b>
-        bytes\n<b><color=lightblue>Response Body</color></b>\n{\n    \"entries\":
-        [\n      {\n        \"locale\": \"tencent\",\n        \"id\": \"103\",\n        \"versionCheckUrls\":
-        [\n          \"https://prds.djwk.qq.com:8003/clientupdate/\"\n        ],\n
-        \       \"updateCheckUrls\": [\n          \"https://prds.djwk.qq.com:8003/\"\n
-        \       ],\n        \"dirServerUrls\": [\n          \"https://prds.djwk.qq.com:9106/\"\n
-        \       ],\n        \"notifyServerUrls\": [\n          \"https://prds.djwk.qq.com:8101/\"\n
-        \       ],\n        \"customSrvUrls\": [\n          \"https://www.qq.com\"\n
-        \       ],\n        \"notifyDataServerUrls\": [\n          \"https://prds.djwk.qq.com:7101/\"\n
-        \       ],\n        \"useHttpDns\": false,\n        \"httpReconnect\": {\n
-        \         \"retryNum\": 5,\n          \"retryTimeBase\": 0,\n          \"retryTimeAccumulation\":
-        1,\n          \"timeoutBase\" : 10000,\n          \"timeoutAccumulation\"
-        : 0\n        }\n    }\n  ]\n}"
-      originalStackTrace: "<color='lightblue'><b>[16:07:30|CS-Info|HTTP]</b></color>\nhttps://prds.djwk.qq.com:9102/pr2new_djwk.json
-        [ GET ] [ 200 OK ] [ 0(0) | 853(853) ] [ 508 ms ]\n\n<b><color=lightblue>Request
-        Headers</color></b>\n<b><color=silver>[host]</color></b> prds.djwk.qq.com\n<b><color=silver>[user-agent]</color></b>
-        UnityWeb/1.0 (Unity 5.6.6f2; Mac OS X 10.13.6)\n<b><color=silver>[content-length]</color></b>
-        0\n<b><color=silver>[accept-encoding]</color></b> lz4\n<b><color=silver>[connection]</color></b>
-        close\n\n<b><color=lightblue>Response Headers</color></b>\n<b><color=silver>[date]</color></b>
-        Fri, 21 Sep 2018 08:07:30 GMT\n<b><color=silver>[content-type]</color></b>
-        application/json\n<b><color=silver>[content-length]</color></b> 853\n<b><color=silver>[connection]</color></b>
-        close\n<b><color=silver>[server]</color></b> nginx\n<b><color=silver>[last-modified]</color></b>
-        Thu, 13 Sep 2018 13:02:28 GMT\n<b><color=silver>[etag]</color></b> \"5b9a5fe4-355\"\n<b><color=silver>[accept-ranges]</color></b>
-        bytes\n\n<b><color=lightblue>Response Body</color></b>\n{\r\n    \"entries\":
-        [\r\n      {\r\n        \"locale\": \"tencent\",\r\n        \"id\": \"103\",\r\n
-        \       \"versionCheckUrls\": [\r\n          \"https://prds.djwk.qq.com:8003/clientupdate/\"\r\n
-        \       ],\r\n        \"updateCheckUrls\": [\r\n          \"https://prds.djwk.qq.com:8003/\"\r\n
-        \       ],\r\n        \"dirServerUrls\": [\r\n          \"https://prds.djwk.qq.com:9106/\"\r\n
-        \       ],\r\n        \"notifyServerUrls\": [\r\n          \"https://prds.djwk.qq.com:8101/\"\r\n
-        \       ],\r\n        \"customSrvUrls\": [\r\n          \"https://www.qq.com\"\r\n
-        \       ],\r\n        \"notifyDataServerUrls\": [\r\n          \"https://prds.djwk.qq.com:7101/\"\r\n
-        \       ],\r\n        \"useHttpDns\": false,\r\n        \"httpReconnect\":
-        {\r\n          \"retryNum\": 5,\r\n          \"retryTimeBase\": 0,\r\n          \"retryTimeAccumulation\":
-        1,\r\n          \"timeoutBase\" : 10000,\r\n          \"timeoutAccumulation\"
-        : 0\r\n        }\r\n    }\r\n  ]\r\n}\r\n\n\nUnityEngine.Debug:Log(Object,
-        Object)\nGameDebug:LogImpl(String, LogLevel, String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:173)\nGameDebug:LogInfo(String,
-        Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:184)\nUnityHTTP.Request:GetResponse()
-        (at Assets/Scripts/UnityHTTP/src/Request.cs:412)\n<Async>c__AnonStorey1:<>m__0(Object)
-        (at Assets/Scripts/Client/Common/Loom.cs:84)\n"
-      nativeFileName: Assets/Scripts/Engine/Core/GameDebug.cs
-      nativeLineNumber: 173
-      watchName: 
-      logText: "<color='lightblue'><b>[16:07:30|CS-Info|HTTP]</b></color>\nhttps://prds.djwk.qq.com:9102/pr2new_djwk.json
-        [ GET ] [ 200 OK ] [ 0(0) | 853(853) ] [ 508 ms ]\n<b><color=lightblue>Request
-        Headers</color></b>\n<b><color=silver>[host]</color></b> prds.djwk.qq.com\n<b><color=silver>[user-agent]</color></b>
-        UnityWeb/1.0 (Unity 5.6.6f2; Mac OS X 10.13.6)\n<b><color=silver>[content-length]</color></b>
-        0\n<b><color=silver>[accept-encoding]</color></b> lz4\n<b><color=silver>[connection]</color></b>
-        close\n<b><color=lightblue>Response Headers</color></b>\n<b><color=silver>[date]</color></b>
-        Fri, 21 Sep 2018 08:07:30 GMT\n<b><color=silver>[content-type]</color></b>
-        application/json\n<b><color=silver>[content-length]</color></b> 853\n<b><color=silver>[connection]</color></b>
-        close\n<b><color=silver>[server]</color></b> nginx\n<b><color=silver>[last-modified]</color></b>
-        Thu, 13 Sep 2018 13:02:28 GMT\n<b><color=silver>[etag]</color></b> \"5b9a5fe4-355\"\n<b><color=silver>[accept-ranges]</color></b>
-        bytes\n<b><color=lightblue>Response Body</color></b>\n{\n    \"entries\":
-        [\n      {\n        \"locale\": \"tencent\",\n        \"id\": \"103\",\n        \"versionCheckUrls\":
-        [\n          \"https://prds.djwk.qq.com:8003/clientupdate/\"\n        ],\n
-        \       \"updateCheckUrls\": [\n          \"https://prds.djwk.qq.com:8003/\"\n
-        \       ],\n        \"dirServerUrls\": [\n          \"https://prds.djwk.qq.com:9106/\"\n
-        \       ],\n        \"notifyServerUrls\": [\n          \"https://prds.djwk.qq.com:8101/\"\n
-        \       ],\n        \"customSrvUrls\": [\n          \"https://www.qq.com\"\n
-        \       ],\n        \"notifyDataServerUrls\": [\n          \"https://prds.djwk.qq.com:7101/\"\n
-        \       ],\n        \"useHttpDns\": false,\n        \"httpReconnect\": {\n
-        \         \"retryNum\": 5,\n          \"retryTimeBase\": 0,\n          \"retryTimeAccumulation\":
-        1,\n          \"timeoutBase\" : 10000,\n          \"timeoutAccumulation\"
-        : 0\n        }\n    }\n  ]\n}"
-      logTruncatedText: '<color=''lightblue''><b>[16:07:30|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9102/pr2new_djwk.json [ GET ] [ 200 OK ] [ 0(0) |
-        853(853) ] [ 508 ms ]
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[host]</color></b> prds.djwk.qq.com
-
-        <b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity 5.6.6f2; Mac
-        OS X 10.13.6)
-
-        <b><color=silver>[content-length]</color></b> 0
-
-        <b><color=silver>[accept-encoding]</color></b> lz4
-
-        <b><color=silver>[connection]</color></b> close
-
-        <b><colo
-
-        ...'
-      logColumnText: '<color=''lightblue''><b>[16:07:30|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9102/pr2new_djwk.json [ GET ] [ 200 OK ] [ 0(0) |
-        853(853) ] [ 508 ms ]
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[host]</color></b> prds.djwk.qq.com
-
-        <b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity 5.6.6f2; Mac
-        OS X 10.13.6)
-
-        <b><color=silver>[content-length]</color></b> 0
-
-        <b><color=silver>[accept-encoding]</color></b> lz4
-
-        <b><color=silver>[connection]</color></b> close
-
-        <b><colo
-
-        ...'
-      fileName: 
-      className: 
-      namespaceName: 
-      lineCount: 52
-      hasSourceCode: 0
-      timeStamp: 0.019999999552965164
-      timeFrame: 2
-      instanceID: 0
-      collapsedCount: 0
-      cachedHeight: -1
-      cachedHeightLogWidth: 0
-      stackEntries:
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:173
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:173
-        instanceID: -1
-        className: GameDebug
-        methodName: LogImpl
-        namespaceName: None
-        lineNumber: 173
-        charNumber: 0
-        stackLabel: GameDebug.LogImpl()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:173'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:184
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:184
-        instanceID: -1
-        className: GameDebug
-        methodName: LogInfo
-        namespaceName: None
-        lineNumber: 184
-        charNumber: 0
-        stackLabel: GameDebug.LogInfo()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:184'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssets: Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/UnityHTTP/src/Request.cs:412
-        fileNameWithoutPath: Request.cs
-        fileNameWithoutPathPlusLineNumber: Request.cs:412
-        instanceID: -1
-        className: Request
-        methodName: GetResponse
-        namespaceName: UnityHTTP
-        lineNumber: 412
-        charNumber: 0
-        stackLabel: Request.GetResponse()
-        stackLabel2: '    Assets/Scripts/UnityHTTP/src/Request.cs:412'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssets: Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Common/Loom.cs:84
-        fileNameWithoutPath: Loom.cs
-        fileNameWithoutPathPlusLineNumber: Loom.cs:84
-        instanceID: -1
-        className: <Async>c__AnonStorey1
-        methodName: <>m__0
-        namespaceName: None
-        lineNumber: 84
-        charNumber: 0
-        stackLabel: <Async>c__AnonStorey1.<>m__0()
-        stackLabel2: '    Assets/Scripts/Client/Common/Loom.cs:84'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      ignoredStackEntries: []
-      lastMatchedCount: 0
-      belongsToFilters: []
-      belongsToStandardFilters: []
-      assignedTempFilter:
-        name: 
-        isEnabled: 1
-        collapsed: 0
-        itemGUID: 
-        filterName: 
-        mainColor: {r: 1, g: 1, b: 1, a: 1}
-        isStandardFilter: 0
-        isTempFilter: 0
-        useAdvancedColors: 0
-        customTextColor: {r: 1, g: 1, b: 1, a: 1}
-        customBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-        swallowStandard: 1
-        overrideStandardColors: 1
-        overrideStandardIcon: 1
-        collapseIconBackground: 0
-        collapseIconSymbol: 0
-        collapseIconLetter: 0
-        collapseIconTexture: 0
-        useIconBackground: 1
-        useIconSymbol: 0
-        useIconLetter: 0
-        useIconTexture: 0
-        filterFormatVersion: -1
-        iconColorize: 0
-        useAndOpForSearchList: 0
-        searchList:
-          list: []
-          selectionList: 0
-          collapsable: 1
-          collapsed: 0
-        iconLetter:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconSymbol:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconBackground:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconTexture:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        showInToolbar: 1
-        hideLabelInToolbar: 0
-        hideWhenNoMatches: 0
-    - logType: 1
-      logPanelVisible: 1
-      logPanelIndex: 0
-      logOutputHeight: -1
-      listIndex: 0
-      nativeIndex: 5
-      nativeIdentifier: 0
-      originalLog: '<color=''lightblue''><b>[16:07:33|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/dirsvr/DirAccount/'
-      originalStackTrace: '<color=''lightblue''><b>[16:07:33|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/dirsvr/DirAccount/
-
-        UnityEngine.Debug:Log(Object, Object)
-
-        GameDebug:LogImpl(String, LogLevel, String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:173)
-
-        GameDebug:LogInfo(String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:184)
-
-        UnityHTTP.Request:GetResponse() (at Assets/Scripts/UnityHTTP/src/Request.cs:350)
-
-        <Async>c__AnonStorey1:<>m__0(Object) (at Assets/Scripts/Client/Common/Loom.cs:84)
-
-'
-      nativeFileName: Assets/Scripts/Engine/Core/GameDebug.cs
-      nativeLineNumber: 173
-      watchName: 
-      logText: '<color=''lightblue''><b>[16:07:33|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/dirsvr/DirAccount/'
-      logTruncatedText: '<color=''lightblue''><b>[16:07:33|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/dirsvr/DirAccount/'
-      logColumnText: '<color=''lightblue''><b>[16:07:33|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/dirsvr/DirAccount/'
-      fileName: 
-      className: 
-      namespaceName: 
-      lineCount: 2
-      hasSourceCode: 0
-      timeStamp: 0.12000000476837158
-      timeFrame: 3
-      instanceID: 0
-      collapsedCount: 0
-      cachedHeight: -1
-      cachedHeightLogWidth: 0
-      stackEntries:
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:173
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:173
-        instanceID: -1
-        className: GameDebug
-        methodName: LogImpl
-        namespaceName: None
-        lineNumber: 173
-        charNumber: 0
-        stackLabel: GameDebug.LogImpl()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:173'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:184
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:184
-        instanceID: -1
-        className: GameDebug
-        methodName: LogInfo
-        namespaceName: None
-        lineNumber: 184
-        charNumber: 0
-        stackLabel: GameDebug.LogInfo()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:184'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssets: Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/UnityHTTP/src/Request.cs:350
-        fileNameWithoutPath: Request.cs
-        fileNameWithoutPathPlusLineNumber: Request.cs:350
-        instanceID: -1
-        className: Request
-        methodName: GetResponse
-        namespaceName: UnityHTTP
-        lineNumber: 350
-        charNumber: 0
-        stackLabel: Request.GetResponse()
-        stackLabel2: '    Assets/Scripts/UnityHTTP/src/Request.cs:350'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssets: Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Common/Loom.cs:84
-        fileNameWithoutPath: Loom.cs
-        fileNameWithoutPathPlusLineNumber: Loom.cs:84
-        instanceID: -1
-        className: <Async>c__AnonStorey1
-        methodName: <>m__0
-        namespaceName: None
-        lineNumber: 84
-        charNumber: 0
-        stackLabel: <Async>c__AnonStorey1.<>m__0()
-        stackLabel2: '    Assets/Scripts/Client/Common/Loom.cs:84'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      ignoredStackEntries: []
-      lastMatchedCount: 0
-      belongsToFilters: []
-      belongsToStandardFilters: []
-      assignedTempFilter:
-        name: 
-        isEnabled: 1
-        collapsed: 0
-        itemGUID: 
-        filterName: 
-        mainColor: {r: 1, g: 1, b: 1, a: 1}
-        isStandardFilter: 0
-        isTempFilter: 0
-        useAdvancedColors: 0
-        customTextColor: {r: 1, g: 1, b: 1, a: 1}
-        customBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-        swallowStandard: 1
-        overrideStandardColors: 1
-        overrideStandardIcon: 1
-        collapseIconBackground: 0
-        collapseIconSymbol: 0
-        collapseIconLetter: 0
-        collapseIconTexture: 0
-        useIconBackground: 1
-        useIconSymbol: 0
-        useIconLetter: 0
-        useIconTexture: 0
-        filterFormatVersion: -1
-        iconColorize: 0
-        useAndOpForSearchList: 0
-        searchList:
-          list: []
-          selectionList: 0
-          collapsable: 1
-          collapsed: 0
-        iconLetter:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconSymbol:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconBackground:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconTexture:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        showInToolbar: 1
-        hideLabelInToolbar: 0
-        hideWhenNoMatches: 0
-    - logType: 1
-      logPanelVisible: 1
-      logPanelIndex: 0
-      logOutputHeight: -1
-      listIndex: 0
-      nativeIndex: 6
-      nativeIdentifier: 0
-      originalLog: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9106/dirsvr/DirAccount/ [ POST ] [ 200 OK ] [ 17(17)
-        | 120(121) ] [ 354 ms ]
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[authorization]</color></b> Token 37c1aa1d899f49598499faa2214455ca
-
-        <b><color=silver>[openid]</color></b> fci_16187
-
-        <b><color=silver>[worldid]</color></b> 0
-
-        <b><color=silver>[msgseq]</color></b> 0
-
-        <b><color=silver>[accept]</color></b> application/wireformat
-
-        <b><color=silver>[host]</color></b> prds.djwk.qq.com
-
-        <b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity 5.6.6f2; Mac
-        OS X 10.13.6)
-
-        <b><color=silver>[content-length]</color></b> 17
-
-        <b><color=silver>[accept-encoding]</color></b> lz4
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=lightblue>Request Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "clientVersion": "2.0.3.52079.2", "deviceType": 0 }
-
-        <b><color=lightblue>Response Headers</color></b>
-
-        <b><color=silver>[date]</color></b> Fri, 21 Sep 2018 08:07:34 GMT
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[content-length]</color></b> 120
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=silver>[server]</color></b> nginx
-
-        <b><color=silver>[content-encoding]</color></b> lz4
-
-        <b><color=lightblue>Response Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "dirStat": { "stat": 0, "dirOpenTime": 1537495200 }, "accountUrl": "https://prds.djwk.qq.com:9106/account91/",
-        "accountWebUrl": "https://prds.djwk.qq.com:9103", "accountSwitch": { "qqLoginSwitch":
-        true, "wxLoginSwitch": true, "guestLoginSwitch": true, "wxScanCodeLoginSwitch":
-        false, "bulletinSwitch": true, "customService": true } }'
-      originalStackTrace: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9106/dirsvr/DirAccount/ [ POST ] [ 200 OK ] [ 17(17)
-        | 120(121) ] [ 354 ms ]
-
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[authorization]</color></b> Token 37c1aa1d899f49598499faa2214455ca
-
-        <b><color=silver>[openid]</color></b> fci_16187
-
-        <b><color=silver>[worldid]</color></b> 0
-
-        <b><color=silver>[msgseq]</color></b> 0
-
-        <b><color=silver>[accept]</color></b> application/wireformat
-
-        <b><color=silver>[host]</color></b> prds.djwk.qq.com
-
-        <b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity 5.6.6f2; Mac
-        OS X 10.13.6)
-
-        <b><color=silver>[content-length]</color></b> 17
-
-        <b><color=silver>[accept-encoding]</color></b> lz4
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-
-        <b><color=lightblue>Request Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "clientVersion": "2.0.3.52079.2", "deviceType": 0 }
-
-
-        <b><color=lightblue>Response Headers</color></b>
-
-        <b><color=silver>[date]</color></b> Fri, 21 Sep 2018 08:07:34 GMT
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[content-length]</color></b> 120
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=silver>[server]</color></b> nginx
-
-        <b><color=silver>[content-encoding]</color></b> lz4
-
-
-        <b><color=lightblue>Response Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "dirStat": { "stat": 0, "dirOpenTime": 1537495200 }, "accountUrl": "https://prds.djwk.qq.com:9106/account91/",
-        "accountWebUrl": "https://prds.djwk.qq.com:9103", "accountSwitch": { "qqLoginSwitch":
-        true, "wxLoginSwitch": true, "guestLoginSwitch": true, "wxScanCodeLoginSwitch":
-        false, "bulletinSwitch": true, "customService": true } }
-
-
-        UnityEngine.Debug:Log(Object, Object)
-
-        GameDebug:LogImpl(String, LogLevel, String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:173)
-
-        GameDebug:LogInfo(String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:184)
-
-        UnityHTTP.Request:GetResponse() (at Assets/Scripts/UnityHTTP/src/Request.cs:412)
-
-        <Async>c__AnonStorey1:<>m__0(Object) (at Assets/Scripts/Client/Common/Loom.cs:84)
-
-'
-      nativeFileName: Assets/Scripts/Engine/Core/GameDebug.cs
-      nativeLineNumber: 173
-      watchName: 
-      logText: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9106/dirsvr/DirAccount/ [ POST ] [ 200 OK ] [ 17(17)
-        | 120(121) ] [ 354 ms ]
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[authorization]</color></b> Token 37c1aa1d899f49598499faa2214455ca
-
-        <b><color=silver>[openid]</color></b> fci_16187
-
-        <b><color=silver>[worldid]</color></b> 0
-
-        <b><color=silver>[msgseq]</color></b> 0
-
-        <b><color=silver>[accept]</color></b> application/wireformat
-
-        <b><color=silver>[host]</color></b> prds.djwk.qq.com
-
-        <b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity 5.6.6f2; Mac
-        OS X 10.13.6)
-
-        <b><color=silver>[content-length]</color></b> 17
-
-        <b><color=silver>[accept-encoding]</color></b> lz4
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=lightblue>Request Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "clientVersion": "2.0.3.52079.2", "deviceType": 0 }
-
-        <b><color=lightblue>Response Headers</color></b>
-
-        <b><color=silver>[date]</color></b> Fri, 21 Sep 2018 08:07:34 GMT
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[content-length]</color></b> 120
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=silver>[server]</color></b> nginx
-
-        <b><color=silver>[content-encoding]</color></b> lz4
-
-        <b><color=lightblue>Response Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "dirStat": { "stat": 0, "dirOpenTime": 1537495200 }, "accountUrl": "https://prds.djwk.qq.com:9106/account91/",
-        "accountWebUrl": "https://prds.djwk.qq.com:9103", "accountSwitch": { "qqLoginSwitch":
-        true, "wxLoginSwitch": true, "guestLoginSwitch": true, "wxScanCodeLoginSwitch":
-        false, "bulletinSwitch": true, "customService": true } }'
-      logTruncatedText: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9106/dirsvr/DirAccount/ [ POST ] [ 200 OK ] [ 17(17)
-        | 120(121) ] [ 354 ms ]
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[authorization]</color></b> Token 37c1aa1d899f49598499faa2214455ca
-
-        <b><color=silver>[openid]</color></b> fci_16187
-
-        <b><color=silver>[worldid]</color></b> 0
-
-        <b><color=silver>[msgseq]</color></b> 0
-
-        <b><color=si
-
-        ...'
-      logColumnText: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9106/dirsvr/DirAccount/ [ POST ] [ 200 OK ] [ 17(17)
-        | 120(121) ] [ 354 ms ]
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[authorization]</color></b> Token 37c1aa1d899f49598499faa2214455ca
-
-        <b><color=silver>[openid]</color></b> fci_16187
-
-        <b><color=silver>[worldid]</color></b> 0
-
-        <b><color=silver>[msgseq]</color></b> 0
-
-        <b><color=si
-
-        ...'
-      fileName: 
-      className: 
-      namespaceName: 
-      lineCount: 27
-      hasSourceCode: 0
-      timeStamp: 0.12000000476837158
-      timeFrame: 3
-      instanceID: 0
-      collapsedCount: 0
-      cachedHeight: -1
-      cachedHeightLogWidth: 0
-      stackEntries:
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:173
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:173
-        instanceID: -1
-        className: GameDebug
-        methodName: LogImpl
-        namespaceName: None
-        lineNumber: 173
-        charNumber: 0
-        stackLabel: GameDebug.LogImpl()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:173'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:184
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:184
-        instanceID: -1
-        className: GameDebug
-        methodName: LogInfo
-        namespaceName: None
-        lineNumber: 184
-        charNumber: 0
-        stackLabel: GameDebug.LogInfo()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:184'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssets: Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/UnityHTTP/src/Request.cs:412
-        fileNameWithoutPath: Request.cs
-        fileNameWithoutPathPlusLineNumber: Request.cs:412
-        instanceID: -1
-        className: Request
-        methodName: GetResponse
-        namespaceName: UnityHTTP
-        lineNumber: 412
-        charNumber: 0
-        stackLabel: Request.GetResponse()
-        stackLabel2: '    Assets/Scripts/UnityHTTP/src/Request.cs:412'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssets: Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Common/Loom.cs:84
-        fileNameWithoutPath: Loom.cs
-        fileNameWithoutPathPlusLineNumber: Loom.cs:84
-        instanceID: -1
-        className: <Async>c__AnonStorey1
-        methodName: <>m__0
-        namespaceName: None
-        lineNumber: 84
-        charNumber: 0
-        stackLabel: <Async>c__AnonStorey1.<>m__0()
-        stackLabel2: '    Assets/Scripts/Client/Common/Loom.cs:84'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      ignoredStackEntries: []
-      lastMatchedCount: 0
-      belongsToFilters: []
-      belongsToStandardFilters: []
-      assignedTempFilter:
-        name: 
-        isEnabled: 1
-        collapsed: 0
-        itemGUID: 
-        filterName: 
-        mainColor: {r: 1, g: 1, b: 1, a: 1}
-        isStandardFilter: 0
-        isTempFilter: 0
-        useAdvancedColors: 0
-        customTextColor: {r: 1, g: 1, b: 1, a: 1}
-        customBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-        swallowStandard: 1
-        overrideStandardColors: 1
-        overrideStandardIcon: 1
-        collapseIconBackground: 0
-        collapseIconSymbol: 0
-        collapseIconLetter: 0
-        collapseIconTexture: 0
-        useIconBackground: 1
-        useIconSymbol: 0
-        useIconLetter: 0
-        useIconTexture: 0
-        filterFormatVersion: -1
-        iconColorize: 0
-        useAndOpForSearchList: 0
-        searchList:
-          list: []
-          selectionList: 0
-          collapsable: 1
-          collapsed: 0
-        iconLetter:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconSymbol:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconBackground:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconTexture:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        showInToolbar: 1
-        hideLabelInToolbar: 0
-        hideWhenNoMatches: 0
-    - logType: 1
-      logPanelVisible: 1
-      logPanelIndex: 0
-      logOutputHeight: -1
-      listIndex: 0
-      nativeIndex: 7
-      nativeIdentifier: 0
-      originalLog: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/account91/ClickGame/'
-      originalStackTrace: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/account91/ClickGame/
-
-        UnityEngine.Debug:Log(Object, Object)
-
-        GameDebug:LogImpl(String, LogLevel, String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:173)
-
-        GameDebug:LogInfo(String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:184)
-
-        UnityHTTP.Request:GetResponse() (at Assets/Scripts/UnityHTTP/src/Request.cs:350)
-
-        <Async>c__AnonStorey1:<>m__0(Object) (at Assets/Scripts/Client/Common/Loom.cs:84)
-
-'
-      nativeFileName: Assets/Scripts/Engine/Core/GameDebug.cs
-      nativeLineNumber: 173
-      watchName: 
-      logText: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/account91/ClickGame/'
-      logTruncatedText: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/account91/ClickGame/'
-      logColumnText: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        Request: https://prds.djwk.qq.com:9106/account91/ClickGame/'
-      fileName: 
-      className: 
-      namespaceName: 
-      lineCount: 2
-      hasSourceCode: 0
-      timeStamp: -1
-      timeFrame: -1
-      instanceID: 0
-      collapsedCount: 0
-      cachedHeight: -1
-      cachedHeightLogWidth: 0
-      stackEntries:
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:173
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:173
-        instanceID: -1
-        className: GameDebug
-        methodName: LogImpl
-        namespaceName: None
-        lineNumber: 173
-        charNumber: 0
-        stackLabel: GameDebug.LogImpl()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:173'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:184
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:184
-        instanceID: -1
-        className: GameDebug
-        methodName: LogInfo
-        namespaceName: None
-        lineNumber: 184
-        charNumber: 0
-        stackLabel: GameDebug.LogInfo()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:184'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssets: Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/UnityHTTP/src/Request.cs:350
-        fileNameWithoutPath: Request.cs
-        fileNameWithoutPathPlusLineNumber: Request.cs:350
-        instanceID: -1
-        className: Request
-        methodName: GetResponse
-        namespaceName: UnityHTTP
-        lineNumber: 350
-        charNumber: 0
-        stackLabel: Request.GetResponse()
-        stackLabel2: '    Assets/Scripts/UnityHTTP/src/Request.cs:350'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssets: Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Common/Loom.cs:84
-        fileNameWithoutPath: Loom.cs
-        fileNameWithoutPathPlusLineNumber: Loom.cs:84
-        instanceID: -1
-        className: <Async>c__AnonStorey1
-        methodName: <>m__0
-        namespaceName: None
-        lineNumber: 84
-        charNumber: 0
-        stackLabel: <Async>c__AnonStorey1.<>m__0()
-        stackLabel2: '    Assets/Scripts/Client/Common/Loom.cs:84'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      ignoredStackEntries: []
-      lastMatchedCount: 0
-      belongsToFilters: []
-      belongsToStandardFilters: []
-      assignedTempFilter:
-        name: 
-        isEnabled: 1
-        collapsed: 0
-        itemGUID: 
-        filterName: 
-        mainColor: {r: 1, g: 1, b: 1, a: 1}
-        isStandardFilter: 0
-        isTempFilter: 0
-        useAdvancedColors: 0
-        customTextColor: {r: 1, g: 1, b: 1, a: 1}
-        customBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-        swallowStandard: 1
-        overrideStandardColors: 1
-        overrideStandardIcon: 1
-        collapseIconBackground: 0
-        collapseIconSymbol: 0
-        collapseIconLetter: 0
-        collapseIconTexture: 0
-        useIconBackground: 1
-        useIconSymbol: 0
-        useIconLetter: 0
-        useIconTexture: 0
-        filterFormatVersion: -1
-        iconColorize: 0
-        useAndOpForSearchList: 0
-        searchList:
-          list: []
-          selectionList: 0
-          collapsable: 1
-          collapsed: 0
-        iconLetter:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconSymbol:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconBackground:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconTexture:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        showInToolbar: 1
-        hideLabelInToolbar: 0
-        hideWhenNoMatches: 0
-    - logType: 1
-      logPanelVisible: 1
-      logPanelIndex: 0
-      logOutputHeight: -1
-      listIndex: 0
-      nativeIndex: 8
-      nativeIdentifier: 0
-      originalLog: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9106/account91/ClickGame/ [ POST ] [ 200 OK ] [ 73(73)
-        | 25(25) ] [ 128 ms ]
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[msgseq]</color></b> 1
-
-        <b><color=silver>[accept]</color></b> application/wireformat
-
-        <b><color=silver>[host]</color></b> prds.djwk.qq.com
-
-        <b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity 5.6.6f2; Mac
-        OS X 10.13.6)
-
-        <b><color=silver>[content-length]</color></b> 73
-
-        <b><color=silver>[accept-encoding]</color></b> lz4
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=lightblue>Request Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "device": "MacBookPro11,4", "channel": 0, "clientVersion": "2.0.3.52079.2",
-        "deviceType": 0, "deviceId": "B1836531-7EA8-5003-B4FE-6BD33E44C804" }
-
-        <b><color=lightblue>Response Headers</color></b>
-
-        <b><color=silver>[date]</color></b> Fri, 21 Sep 2018 08:07:34 GMT
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[content-length]</color></b> 25
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=silver>[server]</color></b> nginx
-
-        <b><color=lightblue>Response Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "result": 0 }'
-      originalStackTrace: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9106/account91/ClickGame/ [ POST ] [ 200 OK ] [ 73(73)
-        | 25(25) ] [ 128 ms ]
-
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[msgseq]</color></b> 1
-
-        <b><color=silver>[accept]</color></b> application/wireformat
-
-        <b><color=silver>[host]</color></b> prds.djwk.qq.com
-
-        <b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity 5.6.6f2; Mac
-        OS X 10.13.6)
-
-        <b><color=silver>[content-length]</color></b> 73
-
-        <b><color=silver>[accept-encoding]</color></b> lz4
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-
-        <b><color=lightblue>Request Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "device": "MacBookPro11,4", "channel": 0, "clientVersion": "2.0.3.52079.2",
-        "deviceType": 0, "deviceId": "B1836531-7EA8-5003-B4FE-6BD33E44C804" }
-
-
-        <b><color=lightblue>Response Headers</color></b>
-
-        <b><color=silver>[date]</color></b> Fri, 21 Sep 2018 08:07:34 GMT
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[content-length]</color></b> 25
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=silver>[server]</color></b> nginx
-
-
-        <b><color=lightblue>Response Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "result": 0 }
-
-
-        UnityEngine.Debug:Log(Object, Object)
-
-        GameDebug:LogImpl(String, LogLevel, String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:173)
-
-        GameDebug:LogInfo(String, Object, Object) (at Assets/Scripts/Engine/Core/GameDebug.cs:184)
-
-        UnityHTTP.Request:GetResponse() (at Assets/Scripts/UnityHTTP/src/Request.cs:412)
-
-        <Async>c__AnonStorey1:<>m__0(Object) (at Assets/Scripts/Client/Common/Loom.cs:84)
-
-'
-      nativeFileName: Assets/Scripts/Engine/Core/GameDebug.cs
-      nativeLineNumber: 173
-      watchName: 
-      logText: '<color=''lightblue''><b>[16:07:34|CS-Info|HTTP]</b></color>
-
-        https://prds.djwk.qq.com:9106/account91/ClickGame/ [ POST ] [ 200 OK ] [ 73(73)
-        | 25(25) ] [ 128 ms ]
-
-        <b><color=lightblue>Request Headers</color></b>
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[msgseq]</color></b> 1
-
-        <b><color=silver>[accept]</color></b> application/wireformat
-
-        <b><color=silver>[host]</color></b> prds.djwk.qq.com
-
-        <b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity 5.6.6f2; Mac
-        OS X 10.13.6)
-
-        <b><color=silver>[content-length]</color></b> 73
-
-        <b><color=silver>[accept-encoding]</color></b> lz4
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=lightblue>Request Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "device": "MacBookPro11,4", "channel": 0, "clientVersion": "2.0.3.52079.2",
-        "deviceType": 0, "deviceId": "B1836531-7EA8-5003-B4FE-6BD33E44C804" }
-
-        <b><color=lightblue>Response Headers</color></b>
-
-        <b><color=silver>[date]</color></b> Fri, 21 Sep 2018 08:07:34 GMT
-
-        <b><color=silver>[content-type]</color></b> application/wireformat
-
-        <b><color=silver>[content-length]</color></b> 25
-
-        <b><color=silver>[connection]</color></b> keep-alive
-
-        <b><color=silver>[server]</color></b> nginx
-
-        <b><color=lightblue>Response Body</color></b>
-
-        <size=10><i>(Decoded from wireformat)</i></size>
-
-        { "result": 0 }'
-      logTruncatedText: "<color='lightblue'><b>[16:07:34|CS-Info|HTTP]</b></color>\nhttps://prds.djwk.qq.com:9106/account91/ClickGame/
-        [ POST ] [ 200 OK ] [ 73(73) | 25(25) ] [ 128 ms ]\n<b><color=lightblue>Request
-        Headers</color></b>\n<b><color=silver>[content-type]</color></b> application/wireformat\n<b><color=silver>[msgseq]</color></b>
-        1\n<b><color=silver>[accept]</color></b> application/wireformat\n<b><color=silver>[host]</color></b>
-        prds.djwk.qq.com\n<b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity
-        5.6.6f2; \n..."
-      logColumnText: "<color='lightblue'><b>[16:07:34|CS-Info|HTTP]</b></color>\nhttps://prds.djwk.qq.com:9106/account91/ClickGame/
-        [ POST ] [ 200 OK ] [ 73(73) | 25(25) ] [ 128 ms ]\n<b><color=lightblue>Request
-        Headers</color></b>\n<b><color=silver>[content-type]</color></b> application/wireformat\n<b><color=silver>[msgseq]</color></b>
-        1\n<b><color=silver>[accept]</color></b> application/wireformat\n<b><color=silver>[host]</color></b>
-        prds.djwk.qq.com\n<b><color=silver>[user-agent]</color></b> UnityWeb/1.0 (Unity
-        5.6.6f2; \n..."
-      fileName: 
-      className: 
-      namespaceName: 
-      lineCount: 23
-      hasSourceCode: 0
-      timeStamp: -1
-      timeFrame: -1
-      instanceID: 0
-      collapsedCount: 0
-      cachedHeight: -1
-      cachedHeightLogWidth: 0
-      stackEntries:
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:173
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:173
-        instanceID: -1
-        className: GameDebug
-        methodName: LogImpl
-        namespaceName: None
-        lineNumber: 173
-        charNumber: 0
-        stackLabel: GameDebug.LogImpl()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:173'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssets: Scripts/Engine/Core/GameDebug.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Engine/Core/GameDebug.cs:184
-        fileNameWithoutPath: GameDebug.cs
-        fileNameWithoutPathPlusLineNumber: GameDebug.cs:184
-        instanceID: -1
-        className: GameDebug
-        methodName: LogInfo
-        namespaceName: None
-        lineNumber: 184
-        charNumber: 0
-        stackLabel: GameDebug.LogInfo()
-        stackLabel2: '    Assets/Scripts/Engine/Core/GameDebug.cs:184'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssets: Scripts/UnityHTTP/src/Request.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/UnityHTTP/src/Request.cs:412
-        fileNameWithoutPath: Request.cs
-        fileNameWithoutPathPlusLineNumber: Request.cs:412
-        instanceID: -1
-        className: Request
-        methodName: GetResponse
-        namespaceName: UnityHTTP
-        lineNumber: 412
-        charNumber: 0
-        stackLabel: Request.GetResponse()
-        stackLabel2: '    Assets/Scripts/UnityHTTP/src/Request.cs:412'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      - fileName: Assets/Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssets: Scripts/Client/Common/Loom.cs
-        fileNameWithoutAssetsPlusLineNumber: Scripts/Client/Common/Loom.cs:84
-        fileNameWithoutPath: Loom.cs
-        fileNameWithoutPathPlusLineNumber: Loom.cs:84
-        instanceID: -1
-        className: <Async>c__AnonStorey1
-        methodName: <>m__0
-        namespaceName: None
-        lineNumber: 84
-        charNumber: 0
-        stackLabel: <Async>c__AnonStorey1.<>m__0()
-        stackLabel2: '    Assets/Scripts/Client/Common/Loom.cs:84'
-        stackLabelContent:
-          m_Text: 
-          m_Image: {fileID: 0}
-          m_Tooltip: 
-        stackLabelWidth: 0
-        stackLabelHeight: 0
-        stackSourceLineHeight: 0
-        sourceCode: []
-        showSource: 0
-      ignoredStackEntries: []
-      lastMatchedCount: 0
-      belongsToFilters: []
-      belongsToStandardFilters: []
-      assignedTempFilter:
-        name: 
-        isEnabled: 1
-        collapsed: 0
-        itemGUID: 
-        filterName: 
-        mainColor: {r: 1, g: 1, b: 1, a: 1}
-        isStandardFilter: 0
-        isTempFilter: 0
-        useAdvancedColors: 0
-        customTextColor: {r: 1, g: 1, b: 1, a: 1}
-        customBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
-        swallowStandard: 1
-        overrideStandardColors: 1
-        overrideStandardIcon: 1
-        collapseIconBackground: 0
-        collapseIconSymbol: 0
-        collapseIconLetter: 0
-        collapseIconTexture: 0
-        useIconBackground: 1
-        useIconSymbol: 0
-        useIconLetter: 0
-        useIconTexture: 0
-        filterFormatVersion: -1
-        iconColorize: 0
-        useAndOpForSearchList: 0
-        searchList:
-          list: []
-          selectionList: 0
-          collapsable: 1
-          collapsed: 0
-        iconLetter:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconSymbol:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconBackground:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        iconTexture:
-          name: 
-          isEnabled: 1
-          collapsed: 0
-          itemGUID: 
-          iconType: 1
-          iconType2: 1
-          iconText: A
-          useIconTextFirstLetter: 1
-          useIconLogColor: 1
-          iconColor: {r: 1, g: 1, b: 1, a: 1}
-          iconBuiltInID: BACKGROUNDS_ECPBGROUNDEDSQUARE
-          iconTextureGUID: 
-          useIconShadow: 1
-          iconOffset: {x: 0, y: 0}
-          iconShadowOffset: {x: 0.5, y: 0.5}
-          iconSize: 13
-        showInToolbar: 1
-        hideLabelInToolbar: 0
-        hideWhenNoMatches: 0
-    resetCompilerErrorEntries: 1
-    compilerErrorEntries: []
-    timeFrames: 
-    _filteredEntries: []
---- !u!114 &21
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -3527,10 +464,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 2
-    y: 17
-    width: 358
-    height: 539
+    x: 776
+    y: 94
+    width: 263
+    height: 437
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -3542,19 +479,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Editor/Resources
+    - Assets/FrogTap/Sprites/Worlds
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Editor/Resources
+  - Assets/FrogTap/Sprites/Worlds
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/91act/91act/Main_Branch/FightGame
+  m_LastProjectPath: /Users/91act/Test/FrogTap
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 000000003e470000fc4e0000be5400002e550000ce610000906a00009c7200001c7600008c7700001c780000b08d000068920000a2a800004cb5000074b500004ec100000ecc00009ad500009cd500004adc000012e4000084f20000780b0100f0320100d4360100a23b01006c4101009a540100987901006e830100e087010050900100c8950100769e0100249f01003ea101006ea701006cad0100dcb4010070d301000cde0100f8e1010064f901002a0302006a030200c6180200781b0200ac1c02008e200200902002009220020000ca9a3bffffff7f
+    m_SelectedIDs: a62c0000
+    m_LastClickedID: 11430
+    m_ExpandedIDs: 302500006e2c0000a02c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3582,7 +519,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003e470000fc4e0000be5400002e550000ce610000906a00009c7200001c7600008c7700001c780000b08d000068920000a2a800004cb5000074b500004ec100000ecc00009ad500009cd500004adc000012e4000084f20000780b0100f0320100d4360100a23b01006c4101009a540100987901006e830100e087010050900100c8950100769e0100249f01003ea101006ea701006cad0100dcb4010070d301000cde0100f8e1010064f901002a0302006a030200c6180200781b0200ac1c02008e2002009020020092200200
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3610,7 +547,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 02310000ce73010002810100046a010000000000bead0000
+    m_ExpandedInstanceIDs: 02310000ce73010002810100046a010000000000bead000040320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3637,7 +574,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 110
---- !u!114 &22
+--- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -3659,18 +596,18 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 3016
+    x: 1043
     y: 94
-    width: 306
-    height: 964
-  m_ScrollPosition: {x: 0, y: 0}
+    width: 362
+    height: 784
+  m_ScrollPosition: {x: 0, y: 234.45508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 199
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
---- !u!114 &23
+--- !u!114 &22
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -3692,38 +629,38 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 2654
-    y: 654
-    width: 358
-    height: 404
+    x: 776
+    y: 552
+    width: 263
+    height: 326
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 9c87feff4494feff5e94feff8094feff8494feffb699feffb899feff46aafeff48aafefff8c3feff62d9feff74d9feff90d9feff94d9feffc6defeffc8defeffbaf7feff0c0fffff2e0fffff500fffff540fffff8614ffff8814ffff7827fffffa3dffffb64fffff0050ffff1c50ffff2050ffff5255ffff5455fffffe67ffffb475ffffd075ffffee75fffff275ffff247bffff267bffff9092ffff389fffff569fffff5a9fffff8ca4ffff8ea4ffffc6cbffff0ce4ffff4ae4ffff70e4ffff74e4ffffa6e9ffffa8e9ffff1cf5ffff00000000
+    m_SelectedIDs: d62d0000
+    m_LastClickedID: 11734
+    m_ExpandedIDs: 7a7fffff9e7fffff9e80ffffa280fffffccdffff00ceffff00cfffff44e7ffff3afbffff000000003c2d0000542e0000d22e0000e82e0000fa2e0000082f000006300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: AnimMask
-      m_OriginalName: AnimMask
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -24820
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
   m_ExpandedScenes:
-  - UIEdit
+  - MainGame
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
---- !u!114 &24
+--- !u!114 &23
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -3745,19 +682,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 1441
+    x: 0
     y: 94
-    width: 1209
-    height: 484
+    width: 772
+    height: 392
   m_SceneLighting: 1
   lastFramingTime: 2391.41745197773
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.82160634, y: 0, z: 0}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: -0.82160634, y: 0, z: 0}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -3784,9 +721,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 4.6436853
+    m_Target: 11.538098
     speed: 2
-    m_Value: 4.6436853
+    m_Value: 11.538098
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -3797,7 +734,7 @@ MonoBehaviour:
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
---- !u!114 &25
+--- !u!114 &24
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -3819,22 +756,22 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 1440
+    x: 0
     y: 94
-    width: 1209
-    height: 484
+    width: 772
+    height: 392
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 00000000000000000d00000010000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 05000000000000000d00000010000000000000000000000000000000000000000000000000000000
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -960
-    m_HBaseRangeMax: 960
-    m_VBaseRangeMin: -540
-    m_VBaseRangeMax: 540
+    m_HBaseRangeMin: -166.66667
+    m_HBaseRangeMax: 166.66667
+    m_VBaseRangeMin: -93.75
+    m_VBaseRangeMax: 93.75
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -3843,7 +780,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -3851,29 +788,29 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 1209
-      height: 467
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 604.5, y: 233.5}
+      width: 772
+      height: 375
+    m_Scale: {x: 2, y: 2}
+    m_Translation: {x: 386, y: 187.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -604.5
-      y: -233.5
-      width: 1209
-      height: 467
+      x: -193
+      y: -93.75
+      width: 386
+      height: 187.5
     m_MinimalGUI: 1
-  m_defaultScale: 1
+  m_defaultScale: 2
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1209, y: 484}
+  m_LastWindowPixelSize: {x: 1544, y: 784}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000101000100000100
---- !u!114 &26
+--- !u!114 &25
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -3896,6 +833,6 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 522
-    width: 1209
-    height: 459
+    y: 507
+    width: 772
+    height: 371
